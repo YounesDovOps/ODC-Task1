@@ -1,0 +1,47 @@
+commit 591c9df5185c8953278f4cad0f00b07835ab6610
+Merge: 3832033 7afe6e4
+Author: YounesDovOps <younesakhroub@gmail.com>
+Date:   Mon Nov 25 13:28:02 2024 +0100
+
+    Merge pull request #2 from YounesDovOps/dev
+    
+    Merge dev with master
+
+commit 7afe6e4443275b6b849ba592e236215ed71ad2da
+Merge: 417e316 b5c818c
+Author: YounesDovOps <younesakhroub@gmail.com>
+Date:   Mon Nov 25 13:22:59 2024 +0100
+
+    Merge pull request #1 from YounesDovOps/Younes-new_feature
+    
+    Add .gitignore file and ignore "." files
+
+commit b5c818c25978908d13fa74f7d1814cfefcdee0b6
+Author: YounesDovOps <younesakhroub@gamil.com>
+Date:   Mon Nov 25 12:37:59 2024 +0100
+
+    Added .gitignore to ignore files starting with 'prefix'
+
+commit 3c924c272ae55b1d5acebb7881e3cbe6ddf10283
+Author: YounesDovOps <younesakhroub@gamil.com>
+Date:   Mon Nov 25 12:16:40 2024 +0100
+
+    Added README.md to Younes-new_feature branch
+
+commit 4e3bfd4b2d72f6d475ccf53637193f81dd42e5c9
+Author: YounesDovOps <younesakhroub@gamil.com>
+Date:   Mon Nov 25 11:40:06 2024 +0100
+
+    Added test.txt1 file in %USERNAME-new_feature branch
+
+commit 417e31652d3875861a6a26c26e043182dab650f6
+Author: YounesDovOps <younesakhroub@gamil.com>
+Date:   Mon Nov 25 11:23:44 2024 +0100
+
+    Added test.txt file in dev branch
+
+commit 3832033d17f94d6c4114ea0b7db8320f699b4ed0
+Author: YounesDovOps <younesakhroub@gamil.com>
+Date:   Mon Nov 25 11:08:33 2024 +0100
+
+    Added Task1 folder with README.md
